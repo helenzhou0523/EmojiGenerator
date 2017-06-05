@@ -1,3 +1,13 @@
+README
+
+  Our program will catch the emotions within input paragraph and generate a series of emojis representing the emotional change 
+in the paragraph.
+
+
+Input: a paragraph of words
+Output: a series of emojis representing the emotional change
+
+
 EXAMPLES
 
 organize your notes before you sleep
@@ -11,3 +21,8 @@ the key to my love is chocolate
 I went to sleep late last night I am so tired and then my girl called me from school and told me she got a hundred on her homework I am surprised but very happy
 
 I brokeup with my boyfriend but then I went to do some shopping to buy myself a new heels and omg they were really nice
+
+
+Acknowledgments:
+Give especially thanks to mentors who taught us a lot about javascript and help us debug.
+
