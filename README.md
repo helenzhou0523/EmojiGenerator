@@ -1,8 +1,11 @@
 # Emoji Generator:
 
 Author: Helen & Harriet
+
 Data: 2017/05
+
 Event: HackXX(Women hackthan held by WIC)
+
 Descrition: A web app where after user inputs a paragraph of text, it generates the emotional changes based on the context and represents by related emojis.
 
 EXAMPLE INPUTS:
